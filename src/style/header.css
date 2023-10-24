@@ -1,0 +1,45 @@
+.header-bg {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: brown;
+}
+
+.inp-val {
+    display: flex;
+    align-items: center;
+}
+
+.inp-logo {
+    color: aliceblue;
+
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+    font-weight: 900;
+    padding: 0.5rem;
+}
+
+.btn {
+    width: 8rem;
+    height: 2rem;
+    border-radius: 50px;
+    background-color: rgb(101, 79, 79);
+    color: aqua;
+}
+
+select {
+    border: none;
+    font-weight: 900;
+
+}
+
+option {
+    font-weight: 900;
+}
+
+.logo {
+    width: 100px;
+}
